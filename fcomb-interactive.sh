@@ -1,7 +1,7 @@
 # GET BASIC INPUTS
 
 read -p "Source file directory: " P_SRCPATH
-read -p "Output file path: " P_OUTPATH
+read -p "Output file directory: " P_OUTPATH
 
 P_FILEPREFIX=false
 while true; do
