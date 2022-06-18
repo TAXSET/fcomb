@@ -52,6 +52,9 @@ This script should run on most Linux distros. You'll need to have access to Bash
 
 ### Inputs / Settings
 
+![image](https://user-images.githubusercontent.com/40140669/174452933-7db559aa-4c5c-4e09-b610-f9a49e7a8ce7.png)
+
+
 * Source file directory: Path to directory containing the files that should be combined.
 * Output directory: Directory that the combined file will be written to.
 * Seperate contents with file names?: Wether or not to include the originals file name as a "heading" before its content in the combined file.
